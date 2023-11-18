@@ -1,5 +1,5 @@
-template-repository (1.0-1) unstable; urgency=medium
+libavtp (0.2.0-1) unstable; urgency=medium
 
-  * Initial release
+  * Initial release (Closes: #1031002)
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Dylan Aïssi <daissi@debian.org>  Fri, 10 Feb 2023 10:58:02 +0100
